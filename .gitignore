@@ -1,8 +1,9 @@
 c-echo-count
 test
 a.out
-
+c-echo
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
+lib/
